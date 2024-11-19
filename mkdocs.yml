@@ -1,8 +1,9 @@
-site_name: Quadratic Courses
-site_url: https://elwennjoubrel-quadreatic.github.io/autoformation
+site_name: Quadratic Autoformations
+site_url: https://elwennjoubrel-quadreatic.github.io/autoformations
+docs_dir: docs
 site_dir: public
-repo_url: https://github.com/elwennjoubrel-quadratic/autoformation
-repo_name: ejoubrel/power-docs
+repo_url: https://github.com/elwennjoubrel-quadratic/autoformations
+repo_name: elwennjoubrel-quadratic/autoformations
 
 extra_css:
   - stylesheets/extra.css
