@@ -111,6 +111,7 @@ nav:
       - 'pages/python/debutant/modelisation.md'
   - Docker:
     - 'pages/docker/index.md'
+    - 'pages/docker/architecture.md'
   - FastAPI:
     - 'pages/fastapi/index.md'
     - 'pages/fastapi/introduction.md'
@@ -118,3 +119,4 @@ nav:
     - Advanced:
       - 'pages/fastapi/advanced/index.md'
       - 'pages/fastapi/advanced/authentication.md'
+  - 'pages/about.md'
